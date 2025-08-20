@@ -3,6 +3,7 @@
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/ksmartinez23/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/NastMz)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)](https://gitlab.com/ksmartinez2307)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&logo=vercel&logoColor=white)](https://kevin-martinez-portfolio-alpha.vercel.app)
 
 - 🔭 I’m currently working on something amazing
 - 📫 Connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/ksmartinez23/)
