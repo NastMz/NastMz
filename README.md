@@ -65,30 +65,9 @@
 [![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff)](#)
 ![Azure Pipelines](https://img.shields.io/badge/-Azure%20Pipelines-2560E0?style=flat-square&logo=azure-pipelines&logoColor=white)
 
-### Tools
-
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
-[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#)
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
-[![Gimp](https://img.shields.io/badge/Gimp-5C5543?logo=gimp&logoColor=white)](#)
-[![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white)](#)
-[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#)
-[![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#)
-[![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](#)
-
 ### Cloud Services
 
 [![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white)](#)
 [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
 [![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)](#)
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/NastMz/NastMz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NastMz&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/NastMz/NastMz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NastMz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kevin's GitHub Stats" />
-</a>
