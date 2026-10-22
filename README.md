@@ -14,15 +14,18 @@ technology fits the idea.
 ## Things I'm building
 
 **Go Verbs**
+
 A free, simple tool for exploring and learning English verbs.
 [Try it](https://go-verbs.vercel.app)
 
 
 **MicroEngine**  
+
 A lightweight 2D game engine built with C# and .NET.
 [View project](https://github.com/NastMz/MicroEngine)
 
 **Experiments & side projects**  
+
 Small tools, creative experiments, and whatever catches my curiosity.
 
 ---
